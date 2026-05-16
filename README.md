@@ -68,7 +68,7 @@ This software platform is engineered specifically to provide macro-level utility
 
 ---
 
-## 🛠️ Technical Stack & Getting Started
+## 🛠️ Techn.ical Stack & Getting Started
 
 ### Prerequisites
 * Python 3.8+ (Core runtime environment)
@@ -78,8 +78,10 @@ This software platform is engineered specifically to provide macro-level utility
 Install the required scientific computing and data science stack:
 ```bash
 pip install -r requirements.txt
+```
+---
 
-## 🗺️ Future Roadmap & Scalability Plan
+### 🗺️ Future Roadmap & Scalability Plan
 
 The platform is designed around an iterative, multi-phase engineering lifecycle to ensure continuous scalability, model calibration, and public-sector utility.
 
@@ -97,3 +99,4 @@ The platform is designed around an iterative, multi-phase engineering lifecycle 
 * **Geospatial Web UI:** Build an interactive, web-based dashboard interface using libraries like `Streamlit` or `Dash/Plotly` to allow policy planners to visually interact with MSA vulnerability heatmaps.
 * **No-Code Scenario Panel:** Implement a visual UI control panel where users can slide input bars to dynamically trigger macro shocks (e.g., adjusting an AI acceleration slider from +5% to +15% and viewing real-time terminal deficit changes).
 * **Cross-Domain Expansion:** Expand the underlying skill taxonomies to model workforce resilience within emerging sectors, such as clean energy grid engineering and commercial aerospace supply chains.
+---
