@@ -1,0 +1,51 @@
+sector,soc_code,occupation_name,retirement_velocity,skill_transferability,pipeline_replacement
+Healthcare,29-1141,Registered Nurses,0.5993,0.3723,0.5295
+Semiconductor,17-2071,Electrical Engineers,0.9285,0.2149,0.1649
+Healthcare,31-1131,Nursing Assistants,0.8158,0.5535,0.3061
+Healthcare,29-1062,Family Medicine Physicians,0.6085,0.3073,0.3069
+Semiconductor,17-2131,Microelectronics Materials Engineers,0.7363,0.05,0.05
+Healthcare,29-1062,Family Medicine Physicians,0.3875,0.1974,0.4628
+Healthcare,29-2061,Licensed Practical Nurses,0.3184,0.1175,0.6931
+Healthcare,29-2061,Licensed Practical Nurses,0.4548,0.4135,0.1151
+Semiconductor,17-2071,Electrical Engineers,0.6183,0.2666,0.05
+Semiconductor,51-2022,Electrical and Electronic Equipment Assemblers,0.7564,0.1599,0.1562
+Healthcare,31-1131,Nursing Assistants,0.3797,0.7705,0.3973
+Semiconductor,17-2112,Industrial Engineers,0.5413,0.3734,0.05
+Semiconductor,17-2072,Electronics Engineering Technicians,0.7313,0.05,0.05
+Healthcare,29-2010,Clinical Laboratory Technologists and Technicians,0.5394,0.5477,0.4343
+Healthcare,29-1062,Family Medicine Physicians,0.4769,0.3398,0.1043
+Semiconductor,51-9141,Semiconductor Wafer Fabrication Operators,0.592,0.1809,0.3586
+Semiconductor,17-2112,Industrial Engineers,0.7515,0.05,0.2486
+Semiconductor,17-2131,Microelectronics Materials Engineers,0.6422,0.1485,0.2918
+Semiconductor,51-9141,Semiconductor Wafer Fabrication Operators,0.8546,0.3897,0.0741
+Semiconductor,51-9141,Semiconductor Wafer Fabrication Operators,0.6536,0.2997,0.3463
+Semiconductor,17-2112,Industrial Engineers,0.6281,0.2222,0.05
+Healthcare,29-1062,Family Medicine Physicians,0.2608,0.5625,0.6712
+Healthcare,29-2061,Licensed Practical Nurses,0.4856,0.6007,0.4723
+Semiconductor,51-9141,Semiconductor Wafer Fabrication Operators,0.6032,0.3042,0.4307
+Healthcare,29-1062,Family Medicine Physicians,0.4928,0.7129,0.1
+Semiconductor,51-2022,Electrical and Electronic Equipment Assemblers,0.8233,0.2631,0.1551
+Semiconductor,17-2112,Industrial Engineers,0.7138,0.05,0.167
+Healthcare,29-2010,Clinical Laboratory Technologists and Technicians,0.5714,0.6956,0.2963
+Semiconductor,17-2071,Electrical Engineers,0.5787,0.1747,0.3373
+Semiconductor,51-9141,Semiconductor Wafer Fabrication Operators,0.7493,0.1705,0.277
+Healthcare,29-2061,Licensed Practical Nurses,0.5194,0.5937,0.2596
+Healthcare,31-9092,Medical Assistants,0.4345,0.3216,0.1073
+Semiconductor,51-2022,Electrical and Electronic Equipment Assemblers,0.7444,0.2892,0.2008
+Healthcare,29-2010,Clinical Laboratory Technologists and Technicians,0.4531,0.1169,0.3159
+Healthcare,29-2061,Licensed Practical Nurses,0.4315,0.2395,0.3677
+Healthcare,29-2010,Clinical Laboratory Technologists and Technicians,0.5808,0.7772,0.4349
+Semiconductor,51-2022,Electrical and Electronic Equipment Assemblers,0.7386,0.2388,0.05
+Healthcare,29-2061,Licensed Practical Nurses,0.4947,0.412,0.8926
+Semiconductor,17-2071,Electrical Engineers,0.6711,0.2952,0.1948
+Semiconductor,19-2031,Chemists,0.5247,0.4214,0.3128
+Semiconductor,17-2072,Electronics Engineering Technicians,0.8187,0.1136,0.4104
+Semiconductor,17-2072,Electronics Engineering Technicians,0.4897,0.338,0.5
+Healthcare,29-1123,Physical Therapists,0.3019,0.2867,0.4199
+Semiconductor,19-2031,Chemists,0.6245,0.05,0.2103
+Semiconductor,17-2071,Electrical Engineers,0.5407,0.321,0.0621
+Healthcare,31-9092,Medical Assistants,0.81,0.2433,0.3356
+Healthcare,29-1141,Registered Nurses,0.6627,0.1538,0.4455
+Healthcare,31-1131,Nursing Assistants,0.7614,0.1,0.4369
+Healthcare,21-1094,Community Health Workers,0.552,0.5564,0.1526
+Healthcare,21-1094,Community Health Workers,0.2359,0.5044,0.4594
