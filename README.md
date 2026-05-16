@@ -17,31 +17,14 @@ This platform serves as a predictive, data-driven framework designed to bridge t
 The platform is engineered around four deeply integrated, object-oriented Python modules that sequentially ingest data, execute structural forecasting, and simulate policy solutions.
 
 [ Integrated Public & Simulated Datasets ]
-*                    │
-*                    ▼
 
-┌────────────────────────────────────────────────────────┐
-│   Module 1: National Workforce Resilience Index        │
-│   - Hazard rates & Early Warning System Anomaly Alerts │
-└─────────────────────────┬──────────────────────────────┘
-                          │
-                          ▼
-┌────────────────────────────────────────────────────────┐
-│   Module 2: Cross-Sector Workforce Mobility            │
-│   - Transparent NLP Vector Embeddings & Cosine Sim     │
-└─────────────────────────┬──────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────────────────┐
-│   Module 3: Geospatial Vulnerability & Regional MSAs   │
-│   - Location Quotient (LQ) & Monoculture Spotting      │
-└─────────────────────────┬──────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────────────────┐
-│   Module 4: Macro-Scenario Simulation Engine           │
-│   - Policy Shock Modeling (CHIPS Act, AI, Immigration) │
-└────────────────────────────────────────────────────────┘
+Module 1: National Workforce Resilience Index - Hazard rates & Early Warning System Anomaly Alerts
+
+Module 2: Cross-Sector Workforce Mobility Forecasting  - Transparent NLP Vector Embeddings & Cosine
+
+Module 3: Geospatial Vulnerability & Regional MSAs - Location Quotient (LQ) & Monoculture Spotting
+
+Module 4: Macro-Scenario Simulation Engine - Policy Shock Modeling (CHIPS Act, AI, Immigration)
 
 
 ### Module 1: National Workforce Resilience Index & Early Warning System (`src/resilience_index.py`)
