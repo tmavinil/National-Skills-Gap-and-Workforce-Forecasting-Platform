@@ -68,7 +68,7 @@ This software platform is engineered specifically to provide macro-level utility
 
 ---
 
-## 🛠️ Techn.ical Stack & Getting Started
+## 🛠️ Technical Stack & Getting Started
 
 ### Prerequisites
 * Python 3.8+ (Core runtime environment)
