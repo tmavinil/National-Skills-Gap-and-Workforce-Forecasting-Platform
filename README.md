@@ -78,3 +78,22 @@ This software platform is engineered specifically to provide macro-level utility
 Install the required scientific computing and data science stack:
 ```bash
 pip install -r requirements.txt
+
+## 🗺️ Future Roadmap & Scalability Plan
+
+The platform is designed around an iterative, multi-phase engineering lifecycle to ensure continuous scalability, model calibration, and public-sector utility.
+
+### ✅ Phase 1: Foundation & Algorithmic Validation (Completed)
+* **Core Architecture:** Engineered the baseline platform structure, including the four primary data and simulation modules.
+* **Algorithmic Modeling:** Validated vector comparisons using Cosine Similarity, network graphs using `networkx`, and Location Quotient ($LQ$) calculation engines.
+* **Pipeline Testing:** Implemented an end-to-end ingest pipeline executing data flow from synthetic database schemas through a 60-month macro-scenario simulation matrix.
+
+### 🔄 Phase 2: Live Data Integration & API Ingestion (Next 6–12 Months)
+* **Automated Data Pipelines:** Replace static synthetic tables with automated data ingestion scripts utilizing direct API wrappers for the **Bureau of Labor Statistics (BLS)** and **O*NET** databases.
+* **Model Calibration:** Train the time-series forecasting models (such as ARIMA/Prophet architectures) on historical national labor shock datasets to calibrate the sensitivity parameters of the Scenario Simulation Engine.
+* **Regional Pilot Evaluations:** Partner with regional workforce development boards or academic institutions to test the localized Location Quotient mappings on real-world industrial clusters.
+
+### 🚀 Phase 3: Interactive Interface Deployment & Domain Expansion (Long-Term)
+* **Geospatial Web UI:** Build an interactive, web-based dashboard interface using libraries like `Streamlit` or `Dash/Plotly` to allow policy planners to visually interact with MSA vulnerability heatmaps.
+* **No-Code Scenario Panel:** Implement a visual UI control panel where users can slide input bars to dynamically trigger macro shocks (e.g., adjusting an AI acceleration slider from +5% to +15% and viewing real-time terminal deficit changes).
+* **Cross-Domain Expansion:** Expand the underlying skill taxonomies to model workforce resilience within emerging sectors, such as clean energy grid engineering and commercial aerospace supply chains.
