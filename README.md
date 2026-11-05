@@ -1,4 +1,4 @@
-# National Labor Market Intelligence & Workforce Forecasting Platform
+# National Skills Gap & Workforce Forecasting Platform
 
 A nationally scalable labor market intelligence and workforce forecasting platform designed to help identify emerging skill shortages, support strategic workforce planning, improve workforce resilience in critical economic sectors, and inform data-driven policy and upskilling initiatives across the United States.
 
